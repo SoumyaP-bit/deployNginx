@@ -1,2 +1,2 @@
 # deployNginx
-Deploying Nginx server on a kubernetes pod
+Deploying Nginx server on a kubernetes cluster
